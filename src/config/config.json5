@@ -134,7 +134,7 @@
 		"connectionTimout": 90,
 
 		// The port GSI will try to connect to
-		"networkPort": 36363,
+		"networkPort": 8004,
 
 		// Tries to detect the CSGO game on the machine and prompts to install the CFG file if it hasn't already
 		"installCfg": true,
